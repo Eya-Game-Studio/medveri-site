@@ -24,4 +24,8 @@
     <loc>https://medveri.global/hesap-silme/</loc>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://medveri.global/kyrin2/gizlilik/</loc>
+    <priority>0.6</priority>
+  </url>
 </urlset>
